@@ -294,8 +294,6 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
-* Made it clear that we stand with Ukraine ([fad350d](https://github.com/terraform-aws-modules/terraform-aws-eks/commit/fad350d5bf36a7e39aa3840926b4c9968e9f594c))
-
 ## [18.9.0](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v18.8.1...v18.9.0) (2022-03-09)
 
 
